@@ -20,7 +20,7 @@ Botium Toys had inadequate management of its assets and lacked several controls 
 - The password policy was outdated and not centrally enforced, creating both security and productivity issues.
 - On the positive side, the company had a working firewall, active antivirus monitoring, and solid physical security (locks, CCTV, fire detection systems).
 
-📄 [Full report: Scope, Goals & Risk Assessment](./reports/scope-goals-risk-assessment.pdf)
+📄 [Full report: Scope, Goals & Risk Assessment](./Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
 
 ## Part 2: Controls & Compliance Assessment
 
@@ -72,7 +72,7 @@ Botium Toys had inadequate management of its assets and lacked several controls 
 | Data integrity maintained | Yes |
 | Data availability to authorized users | Yes |
 
-📄 [Full checklist: Controls & Compliance Assessment](./reports/controls-compliance-checklist.pdf)
+📄 [Full checklist: Controls & Compliance Assessment](./_Controls%20and%20compliance%20checklist.pdf)
 
 ## Recommendations
 
