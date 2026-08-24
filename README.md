@@ -78,7 +78,7 @@ Botium Toys had inadequate management of its assets and lacked several controls 
 
 To protect the confidentiality of data, Botium Toys should implement: least privilege, disaster recovery plans, stronger password policies, separation of duties, an IDS, regular backups, encryption, and a centralized password management system.
 
-Priority compliance gaps to close: least privilege, encryption, and separation of duties — these affect PCI DSS, GDPR, and SOC compliance simultaneously, so fixing them gives the most risk reduction for the effort.
+Priority compliance gaps to close: least privilege, encryption, and separation of duties because these affect PCI DSS, GDPR, and SOC compliance simultaneously, so fixing them gives the most risk reduction for the effort.
 
 ---
 *This audit was conducted using a fictional company scenario provided by the Google Cybersecurity Certificate program. Any data shown is simulated.*
